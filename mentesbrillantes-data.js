@@ -8,7 +8,7 @@ var treeData = [
             ,"_children": [
                {  
                 "name":   "Mentes Brillantes 1 - Pablo Valenzuela",
-                 "url": "https://www.youtube.com/watch?v=ZmzUksziaCg"
+                 "url": "https://www.youtube.com/watch?v=ZmzUksziaCg&list=PLxkqAm6-kLJh6xYS0b5ZxpcLXLsoKq74b&index=1"
               }
               ,{  
                 "name":   "Mentes Brillantes 1 - Cecilia Hidalgo",
