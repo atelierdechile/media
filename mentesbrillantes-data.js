@@ -1,10 +1,10 @@
 var treeData = [
   {
-    "name": "SFDC Training",
+    "name": "MentesBrillantes",
     "parent": "null",
     "children": [
       {
-        "name": "Architect"
+        "name": "Temporada 1"
         ,"children": [
           {
             "name": "Salesforce Technical Archtecture",
@@ -140,7 +140,7 @@ var treeData = [
         ]
       },
       {
-        "name": "Admin"
+        "name": "Temporada 2"
         ,"_children": [
           {
             "name": "Salesforce Security Model"
@@ -253,128 +253,8 @@ var treeData = [
         ]
 
       },
-      {
-        "name": "Developer"
-        ,"_children": [
-          {
-            "name": "Develop by clicks (config) vs code"
-            ,"_children": [
-              {  
-                "name":   "Clicks or Code",
-                 "url": "https://www.youtube.com/v/R_Ir4bq4px0"
-              }
- 
-            ]
- 
-          },
-          {
-            "name": "Apex"
-            ,"_children": [
-              {  
-                "name":   "Apex Coding Webinar",
-                 "url": "https://www.youtube.com/v/WBeCWlbGX38"
-              }
- 
-            ]
- 
-          },
-
-          {
-            "name": "Salesforce API Series"
-             ,"_children": [
-              {  
-                "name":   "Metadata API Webinar",
-                 "url": "https://www.youtube.com/v/S_R0Tzp1HmY"
-              }
- 
-            ]
-          },
-          {
-            "name": "Sales Cloud"
-            ,"_children": [
-              {  
-                "name":   "Get Started with Sales Cloud Administration",
-                 "url": "https://www.youtube.com/v/MSp61khlP9s"
-              }
-            ]
-
-
-          },
-          {
-            "name": "Service Cloud"
-            ,"_children": [
-              {  
-                "name":   "Get Started with Service Cloud Administration",
-                 "url": "https://www.youtube.com/v/fJFlIqtlscI"
-              }
- 
-            ]
- 
-          },
-          {
-            "name": "Marketing Cloud"
-            ,"_children": [
-              {  
-                "name":   "Marketing Cloud",
-                 "url": "https://www.youtube.com/v/joXU0YgKu4Q"
-              }
- 
-            ]
- 
-          },
-          {
-            "name": "Communities"
-            ,"_children": [
-              {  
-                "name":   "Communities",
-                 "url": "https://www.youtube.com/v/iVS0p7xAVLQ"
-              }
- 
-            ]
- 
- 
-
-          },
-          {
-            "name": "Data Quality"
-            ,"_children": [
-              {  
-                "name":   "Enforce Data Quality",
-                 "url": "https://www.youtube.com/v/lonkyrhHiNs"
-              }
- 
-            ]
- 
-          },
-         
-          {
-            "name": "Release Management"
-            ,"_children": [
-              {  
-                "name":   "Introduction to Salesforce Release Management",
-                 "url": "https://www.youtube.com/v/afK95S3UeyU"
-              }
- 
-            ]
- 
-          }
-
-
-        ]
-
-      },
-
-     {
-            "name": "Management"
-            ,"_children": [
-              {  
-                "name":   "Center of Excellence Best Practices",
-                 "url": "https://www.youtube.com/v/N5XNIuVdBf0"
-              }
- 
-            ]
- 
-     },
+      
+    
 {
             "name": "Marketing"
             ,"_children": [
