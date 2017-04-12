@@ -64,7 +64,7 @@ var treeData = [
             "name": "Temporada 2"
             ,"_children": [
                {  
-                "name":   "Marketing Cloud",
+                "name":   "Mentes Brillantes 2 - Jorge Allende",
                  "url": "https://www.youtube.com/v/joXU0YgKu4Q"
               }
               ,{  
