@@ -15,15 +15,15 @@ var treeData = [
                  "url": "https://www.youtube.com/v/36BXjU7qvPQ"
               },
               { "name":    "Mentes Brillantes 1 - Mario Luxoro"
-             ,"url":   "https://www.youtube.com/watch?v=YEUwSUePz5k"
+             ,"url":   "https://www.youtube.com/v/YEUwSUePz5k"
              } , 
 
              { "name":    "Mentes Brillantes 1 - Fernando Mönckeberg"
-             ,"url":   "https://www.youtube.com/watch?v=BNas0FvnIyk"
+             ,"url":   "https://www.youtube.com/v/BNas0FvnIyk"
              },
               {
               "name":    "Mentes Brillantes 1 - Ramón Latorre"
-              ,"url":   "https://www.youtube.com/watch?v=voogNkB14gM"
+              ,"url":   "https://www.youtube.com/v/voogNkB14gM"
               }
  
 ]
